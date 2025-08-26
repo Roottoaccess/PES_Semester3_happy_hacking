@@ -1,0 +1,6 @@
+🔹 Basic Input/Output & Variables
+Write a program to print "Hello, World!". (done)
+Take two numbers as input and print their sum, difference, product, and quotient. (done)
+Write a program to swap two numbers (using a temporary variable and without using one).
+Convert temperature from Celsius to Fahrenheit.
+Calculate the area and perimeter of a rectangle given length and width.
