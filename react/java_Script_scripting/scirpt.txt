@@ -1,0 +1,13 @@
+// Destructuring -> Array Destructuring [] -> Object Destructuring {}
+Unpacking data inside the array and putting them into a seperate array
+let a = [1,2,3]; x = a[0]; y = a[1]; z = a[2];
+let [x,y,z] = a; // Array Destruction method 
+console.log(x,y,z);
+const person = { // This is the object Destruction
+    name : "delta",
+    department : "gamma"
+}
+const {name, department} = person; console.log(name,department);
+// Previously it was declared in ES5 as ->
+console.log(person.name); // Display the name
+console.log(person.department); // Display the department
