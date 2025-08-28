@@ -27,7 +27,7 @@ let [a,b,c] = getScores();
 console.log(a,b,c);
 const fruits = ["apple","banana","grapes","orange"];
 let [x,y] = fruits;
-console.log(x,y);
+console.log(fruits[2],x,y);
 
 // Object Destructors....
 // ES5 -> for the older version....
