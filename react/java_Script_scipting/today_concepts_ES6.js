@@ -32,3 +32,4 @@ const display = () => {
     let name = "running init";
     return name;
 }; console.log(display());
+
